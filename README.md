@@ -1,6 +1,8 @@
 # 📞 Plus Dial — Call Center Analytics Dashboard
 
-An end-to-end data analytics project for a call center operations department: synthetic data generation in **Python**, a relational data model in **PostgreSQL**, and an interactive **Power BI** dashboard used by team leaders and managers to track productivity, quality, and attendance across Calls, Chats, and Emails.
+## 🙋 About This Project
+
+Built as an end-to-end analytics exercise: generate the data, model it properly in a relational database, and turn it into a report a manager can actually use — the same lifecycle a real call center analytics project follows. Synthetic data generation in **Python**, a relational data model in **PostgreSQL**, and an interactive **Power BI** dashboard used by team leaders and managers to track productivity, quality, and attendance across Calls, Chats, and Emails.
 
 🔗 **Live Dashboard:** [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWU2NDM5ZWItNThlYS00ZTllLThhZWUtZDNiNTE3MDJkNTY1IiwidCI6IjQ4MjkzMjgyLTgzMmQtNGQwYi05ZTBmLTVmMmFmYTg5YTFlNCIsImMiOjJ9)
 
@@ -119,7 +121,3 @@ This is a portfolio/demo project, so a few things are simplified on purpose:
 - The SQL script assumes a bulk `COPY` step to load the generated CSVs (path left as a placeholder) — swap in your own file paths before running it.
 - A couple of column-name references in the raw script need to match the final `calendar` table's column names (`months_name`, `days_week`) if you're running it top to bottom yourself.
 ---
-
-### 🙋 About This Project
-
-Built as an end-to-end analytics exercise: generate the data, model it properly in a relational database, and turn it into a report a manager can actually use — the same lifecycle a real call center analytics project follows.
