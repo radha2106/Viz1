@@ -4,7 +4,7 @@
 
 Built as an end-to-end analytics exercise: generate the data, model it properly in a relational database, and turn it into a report a manager can actually use — the same lifecycle a real call center analytics project follows. Synthetic data generation in **Python**, a relational data model in **PostgreSQL**, and an interactive **Power BI** dashboard used by team leaders and managers to track productivity, quality, and attendance across Calls, Chats, and Emails.
 
-🔗 **Live Dashboard:** [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWU2NDM5ZWItNThlYS00ZTllLThhZWUtZDNiNTE3MDJkNTY1IiwidCI6IjQ4MjkzMjgyLTgzMmQtNGQwYi05ZTBmLTVmMmFmYTg5YTFlNCIsImMiOjJ9)
+🔗 **Live Dashboard:** [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWU2NDM5ZWItNThlYS00ZTllLThhZWUtZDNiNTE3MDJkNTY1IiwidCI6IjQ4MjkzMjgyLTgzMmQtNGQwYi05ZTBmLTVmMmFmYTg5YTFlNCIsImMiOjJ9)
 
 ---
 
